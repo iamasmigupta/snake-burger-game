@@ -19,6 +19,35 @@ It is designed to be easy for beginners to run and enjoy on their own computer.
 ---
 
 ## Getting Started
-1. **Download the repository** to your computer:  
-   ```bash
-   git clone https://github.com/iamasmigupta/snake-burger-game.git
+
+### 1. Install Python
+Make sure Python 3.x is installed on your system:  
+[Download Python](https://www.python.org/downloads/)
+
+### 2. Download the Repository
+Download or clone this repository to your computer:  
+```bash
+git clone https://github.com/iamasmigupta/snake-burger-game.git
+
+How to Play
+
+Objective: Eat burgers to grow your snake and increase your score. Avoid hitting walls or your own tail.
+
+Controls:
+
+W / Up Arrow → Move Up
+
+S / Down Arrow → Move Down
+
+A / Left Arrow → Move Left
+
+D / Right Arrow → Move Right
+
+Gameplay Tips:
+
+Eating a burger increases your score by 10 points and slightly increases snake speed.
+
+Plan your moves ahead to avoid colliding with the snake’s tail.
+
+The game ends when the snake hits a wall or itself.
+

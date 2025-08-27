@@ -10,8 +10,7 @@ It is designed to be easy for beginners to run and enjoy on their own computer.
 
 <img width="747" height="781" alt="image" src="https://github.com/user-attachments/assets/5fbc5e8b-0724-4ed6-9e7d-8d8d094f534f" />
 
-🎯 How to Play
-🎮 Controls
+## 🎮 Controls
 
 W / Up Arrow → Move Up
 
@@ -21,13 +20,13 @@ A / Left Arrow → Move Left
 
 D / Right Arrow → Move Right
 
-🏆 Objective
+##  Objective🏆
 
 Eat burgers 🍔 to increase your score (+10 each).
 Grow your snake longer with each burger.
 Avoid hitting walls or colliding with yourself.
 
-💡 Gameplay Tips
+## 💡 Gameplay Tips
 
 The snake speeds up slightly every time you eat.
 Plan your moves to avoid crashing into your tail.
@@ -53,9 +52,4 @@ Download or clone this repository to your computer:
 git clone https://github.com/iamasmigupta/snake-burger-game.git
 
 
-Eating a burger increases your score by 10 points and slightly increases snake speed.
-
-Plan your moves ahead to avoid colliding with the snake’s tail.
-
-The game ends when the snake hits a wall or itself.
 

@@ -55,7 +55,7 @@ git clone https://github.com/iamasmigupta/snake-burger-game.git
 ### 3.Run the Game
 Navigate into the project folder and run:
 ```bash
-python main.py
+main.py
 
 
 
